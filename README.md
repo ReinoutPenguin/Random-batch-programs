@@ -1,2 +1,6 @@
 # Random-useless-batch-programs
-Just simple batch programs that probably doesn’t really help with stuff
+
+All the files in this repository are for education use only.
+I will not be held accountable for anything you do with these programs.
+
+Just simple batch programs that I made while bored. Do note that some of the code I've used is code I found from the internet
